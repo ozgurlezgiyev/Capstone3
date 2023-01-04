@@ -1,5 +1,5 @@
 # Toxic Comment Classification
-
+![cover_photo](./Images/image.jpg)
 
 **1.	Problem**
 

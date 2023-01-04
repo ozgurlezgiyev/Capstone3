@@ -1,6 +1,7 @@
 # Capstone3
 
-1.	Problem
+**1.	Problem**
+
 The 21st century is the age of social media. On one hand, many small businesses are benefiting and on the other, there is also a dark side to it. Thanks to social media, people are aware of ideas they are not used to. While few people take it positively and make an effort to get used to it, many people start going in the wrong direction and start spouting malicious words. So many social media apps take the necessary steps to remove these comments in order to predict their users, and they do so using NLP techniques.
 
 2.	Introduction

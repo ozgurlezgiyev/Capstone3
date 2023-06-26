@@ -1,5 +1,3 @@
-[embed][http://example.com/file.pdf](https://github.com/ozgurlezgiyev/Capstone3/blob/main/Capstone-3_Final_Report.pdf)[/embed]
-
 # Toxic Comment Classification
 ![cover_photo](./Images/image.jpg)
 
